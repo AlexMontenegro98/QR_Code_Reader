@@ -1,4 +1,4 @@
-!pip3 install cv2
+!pip install cv2
 !pip install pyzbar
 !pip install numpy
 
