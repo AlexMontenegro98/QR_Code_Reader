@@ -3,3 +3,4 @@ numpy==1.20.2
 opencv-python-headless==4.6.0.66
 pandas==1.4.3
 streamlit-aggrid==0.2.3.post2
+pyzbar==0.1.9
