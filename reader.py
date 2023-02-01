@@ -1,3 +1,7 @@
+!pip3 install cv2
+!pip install pyzbar
+!pip install numpy
+
 import cv2
 import streamlit as st
 from pyzbar.pyzbar import decode
